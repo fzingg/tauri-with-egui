@@ -7,7 +7,7 @@ Based on the tutorial made by [Lucas Nogueira](https://github.com/lucasfernog)
 
 ## Start the app
 
-`cargo run dev`
+`cargo tauri dev`
 
 ## Wayland issue
 
